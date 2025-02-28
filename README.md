@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lohith Duba</h1>
 <h3 align="center">I am a passionate tech enthusiast seeking a challenging role in the IT sector to apply my skills and drive innovation</h3>
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.x9H9jtjDm0w7H9Kc6H02ogHaEK?rs=1&pid=ImgDetMain">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lohithduba&label=Profile%20views&color=0e75b6&style=flat" alt="lohithduba" /> </p>
 
