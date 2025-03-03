@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lohith Duba</h1>
 <h3 align="center">I am a passionate tech enthusiast seeking a challenging role in the IT sector to apply my skills and drive innovation</h3>
 
-Checkout my Portfolio https://lohithduba.github.io/LohithPortfolio.github.io/
+<h4 aligh="center">Checkout my Portfolio https://lohithduba.github.io/LohithPortfolio.github.io/</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lohithduba&label=Profile%20views&color=0e75b6&style=flat" alt="lohithduba" /> </p>
