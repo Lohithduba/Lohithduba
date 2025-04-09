@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lohith Duba</h1>
 <h3 align="center">I am a passionate tech enthusiast seeking a challenging role in the IT sector to apply my skills and drive innovation</h3>
 
+
 ###
 
 <div align="center">
@@ -10,7 +11,7 @@
 
 ###
 
-
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
