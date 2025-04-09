@@ -20,13 +20,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lohithduba&show_icons=true&locale=en&layout=compact" alt="lohithduba" /></p>
 
-
-*
-# snk
-
-
-Generates a snake game from a github user contributions graph
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
