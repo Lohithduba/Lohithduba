@@ -1,4 +1,4 @@
-*<h1 align="center">Hi 👋, I'm Lohith Duba</h1>
+<h1 align="center">Hi 👋, I'm Lohith Duba</h1>
 <h3 align="center">I am a passionate tech enthusiast seeking a challenging role in the IT sector to apply my skills and drive innovation</h3>
 
 <h4 aligh="center">Checkout my Portfolio https://lohithduba.github.io/LohithPortfolio.github.io/</h4>
